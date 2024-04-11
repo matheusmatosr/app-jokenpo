@@ -1,4 +1,4 @@
-# JJokenpo 
+# Jokenpo 
 ### Jogo Pedra Papel Tesoura
 
 122100025 - Hiago Ferreira dos Santos
